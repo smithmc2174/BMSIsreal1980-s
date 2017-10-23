@@ -1,0 +1,62 @@
+#------------------
+# Israel TDF file
+#------------------
+
+# shown in the pick list
+name Israel 1988
+
+# Title shown on theater page
+desc Israeli Theater of Operations - Restart BMS after Change!
+
+# bitmap to display on theater page
+bitmap Add-On Israel1988\Terrdata\theaterdefinition\Israel.TGA
+
+# in general, you can miss out most of these, and it
+# will use the default, unless another theater changes it
+# so probably best to put in explicitly.
+ 
+# Where the campaign directory is
+campaigndir Add-On Israel1988\campaign
+
+# where the terrain data is
+terraindir Add-On Israel1988\Terrdata
+
+# which tileset to use - overrides the global setting in the cfg file
+tileset POLAK
+
+
+# where art is loaded from
+artdir Add-On Israel1988
+
+# movies
+#moviedir 
+ 
+# uisounds 
+#uisounddir Sounds
+
+# default objects
+objectdir Add-On Israel1988\Terrdata\objects
+
+# misc textures
+misctexdir Terrdata\misctex
+
+# 3d object files
+3ddatadir Add-On Israel1988\Terrdata\objects
+
+# sounds dir
+sounddir Add-On Israel1988\Sounds
+
+# simdata dir
+simdatadir Add-On Israel1988\Sim
+
+# minimum tacan channel
+mintacan 1
+
+# use double resolution 2D UI map
+doubleres2dmap 1
+
+# splash screens
+splashdir Add-On Israel1988\art\splash
+
+#subtitles
+subtitlesdir Add-On Israel1988\Sounds
