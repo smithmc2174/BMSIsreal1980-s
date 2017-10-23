@@ -1,0 +1,45 @@
+F-16 Pilot Model for BMS 4.32
+
+Apart from model files I also included the LOD Editor and photoshop file 
+for 8019 texture for those that want their own pages on kneepad and the LOD file with only the model if you want to use it on other AC.
+
+
+Installation guide:
+
+
+1. !!!Create a backup of files (not folders) in: <dir>\Falcon BMS\Data\Terrdata\objects\!!!
+2. Put 8018.dds and 8019.dds files in <dir>\BMS\Data\Terrdata\objects\KoreaObj\
+3. Open LOD Editor
+4. Click on 'normal', then '1' under "Edit"
+8. Click on 'Select LOD'
+9. Select LOD no. 82
+10. Select Action>Append/replace texture
+11. Select 8018.dds and 8019.dds
+12. Click on 'Action'>replace model
+13. Choose 'loaded.lod' from the archive.
+14. When the LE changes appearence you can close it down.
+15. Enjoy your new body!
+
+
+
+
+Thanks to BMS for making this amazing sim!
+
+Special thanks to:
+RAM22
+lazystone
+Raptor
+WaveyDave
+PumpyHead
+Revientor
+for helping me out.
+and to
+Red Dog - for allowing me to use his Nav charts.
+
+
+You're free to modify this model/textures as long as you'll give me the credit.
+
+
+
+Happy hunting!
+Pawe³ "Harpoon" Dywelski

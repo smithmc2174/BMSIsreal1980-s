@@ -1,0 +1,126 @@
+// Side SubType Specific
+// Side 1 = Syria
+      1       1        14	//dummy
+	  1       1        1	//KS-19
+      1       1        4	//SA-2
+      1       1        5	//SA-3
+      1       1        6	//SA-5
+	  1       1        11	//SA-6
+      1       1        15	//SA-11
+	  1       2        3	//SPECOPS AK-47
+	  1       3        5	//T-62
+	  1       3        7	//T-72
+	  1       5        2	//ENGINEER MDK-2
+      1       6        2	//HQ BMP-CMD
+      1       7        2	//AK-47
+	  1       7        5	//MOTOR RIFLE BMP-2
+      1       9        3	//MECH BTR-60
+	  1      10        1	//BM-21
+	  1      10        3	//BM-24	  
+      1      11        1	//SP ARTY M-1974	  
+      1      14        1	//TOWERD ARTY D-30
+	  1      12        4	//FROG-7
+      1      12        1	//SCUD
+// Side SubType Specific
+// Side 2 = Egypt
+      2       1        1	//KS-19
+      2       1        5	//SA-3
+	  2       1        11	//SA-6
+	  2       1        16	//SA-17
+      2       1        8	//HAWK
+	  2       1        7	//PATRIOT
+      2       2        3
+      2       3        1
+      2       3        5
+	  2       3        10	//M1A1
+	  2       3        11	//M60A3
+	  2       5        1	//ENGINEER M113  
+      2       6        3
+      2       7        4
+      2       9        3
+	  2       9        4	//MECH M113
+      2      10        1	//BM-21
+	  2      10        3	//BM-24	  
+      2      11        4
+      2      12        4
+      2      12        1
+      2      14        4
+// Side SubType Specific
+// Side 3 = IDF
+      3       1       14	//K200
+      3       1        8	//HAWK
+	  3       1        7	//PATRIOT
+	  3       2        2	//AIR M-16
+	  3       3        6	//MERKAVA III  
+	  3       3        11	//M60A3  
+	  3       5        1	//ENGINEER M113  
+      3       6        4	//HQ K200
+      3       7        4	//M-16
+      3       8        3	//ELITE RECON
+	  3       9        2	//Mech Namer
+      3       9        4	//Mech M113
+	  3      10        5	//MLRS
+      3      11        4	//M109
+      3      14        4	//155MM TOWED
+
+// Side 4 = Soviet (Russia)
+// Side SubType Specific
+      4       1       10
+      4       1       11
+      4       1       12
+      4       2        1
+      4       3        7
+      4       3        8
+      4       3        9
+      4       5        2
+      4       6        5
+      4       7        5
+      4       8        2
+      4       9        5
+      4      12        3
+      4      12        2
+      4      11        5
+      4      10        2
+      4      10        3
+      4      10        4
+      4      14        3
+// SA-2 Optical
+      4       1       21
+// SA-3 Optical
+      4       1       22
+// SA-6 Optical
+      4       1       23
+// SA-11
+      4       1       15
+// SA-17
+      4       1       16
+// M-84 Armored
+      4       3       12
+// M-84 Motor Rifle
+      4       3       13
+
+// Side 5 = Coalition
+// Side SubType Specific
+      5       1        7
+      5       1       13
+//Skyguard AD
+      5       1       20
+      5       2        2
+      5       3       10
+      5       3       11
+//Leopard2 Armored
+      5       3       14
+//Leopard2 Cavalry
+      5       3       15
+//Challenger Armored
+      5       3       16
+//Challenger Cavalry
+      5       3       17
+      5       4        1
+      5       5        1
+      5       6        1
+      5       7        1
+      5       8        1
+      5       9        1
+      5      10        5
+      5      11        6

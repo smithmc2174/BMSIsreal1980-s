@@ -1,0 +1,63 @@
+Indx 42
+prf 375 (Not used)
+
+CustomSymbolType 4
+
+TimeToLock 99999
+MaxTwstargets 10
+Timeskillfactor 100
+
+Timetosearch1 99999
+Timetosearch2 99999
+Timetosearch3 99999
+Timetoacuire 999999
+Timetoguide 9999999
+
+Timetocoast 3000
+
+Rangetosearch1 1014692
+Rangetosearch2 1014692
+Rangetosearch3 1014692
+Rangetoacuire 100
+Rangetoguide 100
+
+Sweeptimesearch1 1000
+Sweeptimesearch2 1000
+Sweeptimesearch3 1000
+Sweeptimeacuire 1000
+Sweeptimeguide 1000
+
+Sweeptimecoast 1000
+
+Rwrsoundsearch1 152
+Rwrsoundsearch2 152
+Rwrsoundsearch3 152
+Rwrsoundacuire 152
+Rwrsoundguide 152
+
+Rwrsymbolsearch1 10
+Rwrsymbolsearch2 10
+Rwrsymbolsearch3 10
+Rwrsymbolacuire 10
+Rwrsymbolguide 10
+
+Bandsearch1 E
+Bandsearch2 E
+Bandsearch3 E
+Bandacuire E
+Bandguide E
+
+Typesearch1 P
+Typesearch2 P
+Typesearch3 P
+Typeacuire P
+Typeguide P
+
+PRIsearch1 2666
+PRIsearch2 2666
+PRIsearch3 2666
+PRIacuire 2666
+PRIguide 2666
+
+TrackWarning 0
+LaunchWarning 0

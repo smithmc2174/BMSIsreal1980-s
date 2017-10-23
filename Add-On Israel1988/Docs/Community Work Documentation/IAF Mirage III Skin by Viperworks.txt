@@ -1,0 +1,27 @@
+Viperworks IAF Mirage IIIC skin
+===============================
+
+This is a new FF2 hires skin for the Israeli Air Force Mirage IIIC (1st Jet Sqdn).
+
+Thanks to "FalconEye_IAF" for support and Steve "Hustler" Wooters for his permission to use his original .bmps
+
+
+
+Installation Instructions
+=========================
+
+Just copy all the .dds files into your ...Falcon4\terrdata\objects\KoreaObj folder (overwrite existing files).
+
+
+
+
+
+COPYRIGHT (c) 2004 ROB "VIPER" SENFTLE
+
+
+Please check out www.viperworks.tk for further updates and new skins.
+
+In case of questions and comments contact me at viper_home@usa.com or write me a private message at Frugalsworld Falcon 4 forum.
+
+___________________
+Rob "Viper" Senftle

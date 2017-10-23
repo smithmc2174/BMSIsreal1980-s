@@ -1,0 +1,5 @@
+#Water bomb effect for ITO
+0 # Data Format Version
+# particle sys 
+psFeatureImpact _water_bomb
+psBombImpact _water_bomb

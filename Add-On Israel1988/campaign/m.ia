@@ -1,0 +1,47 @@
+# Use F4Browse to find Plane Units (!) and Weapon IDs
+#####################################################
+# Own plane (Unit Information) Example: F-16
+1 type
+9 subtype
+66 specific
+#####################################################
+# Weapon loadout: WeaponID (Weapon No.), WeaponAmount
+#Loadout Hardpoint 0
+623 W0
+51 C0
+#Loadout Hardpoint 1
+# 1 X AIM9M
+36 W1
+1 C1
+#Loadout Hardpoint 2
+# 1 X python4
+52 W2
+1 C2
+#Loadout Hardpoint 3
+# 1 X GBU15
+168 W3
+1 C3
+#Loadout Hardpoint 4
+# 1 x GBU12
+167 W4
+1 C4
+#Loadout Hardpoint 5
+# AN/AXQ-14 (for GBU-15)
+376 W5
+1 C5
+#Loadout Hardpoint 6
+# 1 x MK20
+202 W6
+1 C6
+#Loadout Hardpoint 7
+# 1 X GBU31v3 (pen)
+177 W7
+1 C7
+#Loadout Hardpoint 8
+# 1 X python5
+53 W8
+1 C8
+#Loadout Hardpoint 9
+# 1 X AIM9M
+36 W9
+1 C9

@@ -1,0 +1,71 @@
+Indx 15
+prf 0 (Not used)
+
+CustomSymbolType 3
+
+TimeToLock 500
+MaxTwstargets 16
+Timeskillfactor 100
+
+Timetosearch1 1000
+Timetosearch2 1000
+Timetosearch3 1000
+Timetoacuire 1000
+Timetoguide 500
+
+Timetocoast 500
+
+Rangetosearch1 79000
+Rangetosearch2 75000
+Rangetosearch3 70000
+Rangetoacuire 10
+Rangetoguide 10
+
+Sweeptimesearch1 1000
+Sweeptimesearch2 1000
+Sweeptimesearch3 1000
+Sweeptimeacuire 1000
+Sweeptimeguide 1000
+
+Sweeptimecoast 1500
+
+Rwrsoundsearch1 78
+Rwrsoundsearch2 78
+Rwrsoundsearch3 78
+Rwrsoundacuire 78
+Rwrsoundguide 78
+
+Rwrsymbolsearch1 27
+Rwrsymbolsearch2 27
+Rwrsymbolsearch3 27
+Rwrsymbolacuire 27
+Rwrsymbolguide 27
+
+Bandsearch1 I
+Bandsearch2 I
+Bandsearch3 I
+Bandacuire I
+Bandguide I
+
+Typesearch1 D
+Typesearch2 D
+Typesearch3 D
+Typeacuire D
+Typeguide D
+
+AirFireRate 2000
+Maxmissilesintheair 1
+
+Elevationbumpamounta 140
+Elevationbumpamountb 60
+
+AverageSpeed 1500
+MaxAngleDiffTws 0.0
+MaxRangeDiffTws 0.0
+MaxAngleDiffSam 0.0
+MaxRangeDiffSam 0.0
+MaxNctrRange 0
+NctrDelta 0
+
+MinEngagementAlt 56
+MinEngagementRange 3500

@@ -1,0 +1,21 @@
+F-15I IAF skin texture for the Open Falcon F-15E model. by 69iAF~Mike
+---------------------------------------------------
+The texture uses some original OF textures, mainly on small parts and the lower fuselage. 
+(If any other credit-dependant artist has a hand in some of these textures- let me know)
+
+Included are two folders: 
+One with the DXT1 compressed skin and the other is compressed by DXT3.
+DXT3 is better quality-wise. 
+
+INSTALL AT YOUR OWN RISK.
+ I do not include instructions nor do I hold any responsibility for any damage you might cause to anything by installing this skin. 
+Not that it could harm something, just don't install it if you don't know how to. YOU might break something :)
+
+Big thanks to efi69 (well heck , I don't know you by any other name) for all the beta testing and starting me on this in the first place.
+--------------------------------------------------
+
+This skin is released first for WWW.PREFLIGHT.US 
+--------------------------------------------------
+
+For any comments, hate mail, weird pictures and marriage proposals feel free to to drop a mail:
+Mike.69th@gmail.com

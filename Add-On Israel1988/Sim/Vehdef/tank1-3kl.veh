@@ -1,0 +1,21 @@
+# 1300l tank data file
+#flags
+0
+# Drag
+0.2
+# Weight
+345.0
+# Area
+1.0
+# Ejection velocity
+0.0 0.0 0.0
+# Name
+RPL522
+# Class
+5
+# Domain
+0
+# Weapon Type
+0
+# Data Idx
+0

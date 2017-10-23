@@ -1,0 +1,21 @@
+# GBU 36 Bomb data file
+#flags
+1
+# Drag
+0.2
+# Weight
+300.0
+# Area
+1.0
+# Ejection velocity
+0.0 0.0 0.0
+# Name
+GB36
+# Class
+6
+# Domain
+2
+# Weapon Type
+4
+# Data Idx
+120
